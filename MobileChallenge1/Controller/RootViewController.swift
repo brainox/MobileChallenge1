@@ -70,7 +70,7 @@ extension RootViewController: UITableViewDataSource, UITableViewDelegate {
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = table.dequeueReusableCell(withIdentifier: "sessionCell") as! SessionCell
         cell.setUp(with: session[indexPath.row])
-        cell.cellView.layer.cornerRadius = cell.cellView.frame.height / 2
+//        cell.cellView.layer.cornerRadius = cell.cellView.frame.height / 2
         cell.maxOutputView.layer.cornerRadius = cell.maxOutputView.frame.height / 2
         
         return cell
