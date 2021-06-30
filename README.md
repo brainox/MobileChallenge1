@@ -3,7 +3,8 @@
 An iOS app that fetches musical practice session data from an API and displays it on the UI. It also displays the maximum output increase from one exercise sesion to another.
 
 <img width="403" alt="Screenshot 2021-06-30 at 16 11 54" src="https://user-images.githubusercontent.com/12437059/123986368-27d1b300-d9be-11eb-86bc-fb34f691dfd7.png">
-### Technologies Used
+
+## Technologies Used
 
 * [Swift](https://developer.apple.com/swift/) - Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS, Linux, and z/OS
 * [RESTful API] A RESTful API is an architectural style for an application program interface (API) that uses HTTP requests to access and use data.
