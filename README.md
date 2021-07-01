@@ -7,7 +7,7 @@ An iOS app that fetches musical practice session data from an API and displays i
 ## Technologies Used
 
 * [Swift](https://developer.apple.com/swift/) - Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS, Linux, and z/OS
-* [RESTful API] A RESTful API is an architectural style for an application program interface (API) that uses HTTP requests to access and use data.
+* RESTful API - A RESTful API is an architectural style for an application program interface (API) that uses HTTP requests to access and use data.
 * [Kingfisher](https://cocoapods.org/pods/Kingfisher) - Kingfisher is a powerful, pure-Swift library for downloading and caching images from the web. It provides you a chance to use a pure-Swift way to work with remote images in your next app.
 
 ### Installation
